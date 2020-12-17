@@ -1,0 +1,6 @@
+framework module Pods_JMWDemo_Example {
+  umbrella header "Pods-JMWDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

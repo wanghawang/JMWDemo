@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JMWDemo (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JMWDemo (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JMWDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JMWDemo: 1c8b2bd76751e87aee092a7e97d26a4a092a7b6a
+
+PODFILE CHECKSUM: f73c25b57eec1ae6593e413f1b9d61621fbb4ec4
+
+COCOAPODS: 1.9.3

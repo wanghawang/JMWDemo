@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JMWDemo'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of JMWDemo.'
+  s.summary          = '鲸卖网测试'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/wanghawang/JMWDemo'
+  s.homepage         = 'https://github.com/wanghawang'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wanghawang' => '1131522675@qq.com' }
