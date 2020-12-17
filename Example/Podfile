@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'JMWDemo_Example' do
+  pod 'JMWDemo', :path => '../'
+
+  target 'JMWDemo_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
